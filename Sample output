@@ -1,0 +1,42 @@
+Sample Output 
+===== Student Record Management System =====
+1. Add Student
+2. View Students
+3. Update Student
+4. Delete Student
+5. Exit
+Enter choice: 1
+Enter ID: 101
+Enter Name: John
+Enter Marks: 85
+Student added successfully!
+ ===== Student Record Management System =====
+1. Add Student
+2. View Students
+3. Update Student
+4. Delete Student
+5. Exit
+Enter choice: 1
+Enter ID: 102
+Enter Name: Priya
+Enter Marks: 92
+Student added successfully!
+===== Student Record Management System =====
+1. Add Student
+2. View Students
+3. Update Student
+4. Delete Student
+5. Exit
+Enter choice: 2
+
+--- Student Records ---
+ID: 101, Name: John, Marks: 85.0
+ID: 102, Name: Priya, Marks: 92.0
+ Enter Student ID to Update: 101
+Enter New Name: John Paul
+Enter New Marks: 90
+Record updated successfully!
+: Enter Student ID to Delete: 102
+Record deleted successfully!
+Enter choice: 5
+Exiting...
